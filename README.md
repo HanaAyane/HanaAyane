@@ -1,11 +1,9 @@
-```text
- _   _                              _
-| | | |   __ _   _ __     __ _     / \     _   _    __ _   _ __     ___
-| |_| |  / _` | | '_ \   / _` |   / _ \   | | | |  / _` | | '_ \   / _ \
-|  _  | | (_| | | | | | | (_| |  / ___ \  | |_| | | (_| | | | | | |  __/
-|_| |_|  \__,_| |_| |_|  \__,_| /_/   \_\  \__, |  \__,_| |_| |_|  \___|
-                                           |___/
-```
+<pre align="center">&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+|&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;&nbsp;__&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;__&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;
+|&nbsp;|_|&nbsp;|&nbsp;&nbsp;/&nbsp;_`&nbsp;|&nbsp;|&nbsp;&#x27;_&nbsp;\&nbsp;&nbsp;&nbsp;/&nbsp;_`&nbsp;|&nbsp;&nbsp;&nbsp;/&nbsp;_&nbsp;\&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;_`&nbsp;|&nbsp;|&nbsp;&#x27;_&nbsp;\&nbsp;&nbsp;&nbsp;/&nbsp;_&nbsp;\
+|&nbsp;&nbsp;_&nbsp;&nbsp;|&nbsp;|&nbsp;(_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;(_|&nbsp;|&nbsp;&nbsp;/&nbsp;___&nbsp;\&nbsp;&nbsp;|&nbsp;|_|&nbsp;|&nbsp;|&nbsp;(_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;&nbsp;__/
+|_|&nbsp;|_|&nbsp;&nbsp;\__,_|&nbsp;|_|&nbsp;|_|&nbsp;&nbsp;\__,_|&nbsp;/_/&nbsp;&nbsp;&nbsp;\_\&nbsp;&nbsp;\__,&nbsp;|&nbsp;&nbsp;\__,_|&nbsp;|_|&nbsp;|_|&nbsp;&nbsp;\___|
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</pre>
 
 <div align="center">
 
