@@ -32,6 +32,8 @@
 喜欢动手改善日常使用的小细节，也喜欢做有趣的桌面小伙伴。在这里分享自己的项目和探索。<br>
 <sub>I enjoy improving the little things in everyday tools and creating playful desktop companions. This is where I share what I'm building and learning.</sub>
 
+联系我 / Contact: [HanaAyane@outlook.com](mailto:HanaAyane@outlook.com)
+
 ### 最近在做<br><sub>What I'm building</sub>
 
 | 项目<br><sub>Project</sub> | 简介<br><sub>Overview</sub> |
