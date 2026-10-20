@@ -52,29 +52,12 @@
 如果我的工具对你有帮助，欢迎支持我的个人创作与维护。每一份支持都很感谢，Star 和反馈也同样珍贵。<br>
 <sub>If you find my tools useful, you can support my work and ongoing maintenance. Every bit of support means a lot—stars and feedback are just as welcome.</sub>
 
-<details>
-<summary><b>微信 / 支付宝赞助</b><br><sub>Support via WeChat Pay or Alipay</sub></summary>
-<br>
-
-<table>
-  <tr>
-    <th align="center" width="50%">微信支付<br><sub>WeChat Pay</sub></th>
-    <th align="center" width="50%">支付宝<br><sub>Alipay</sub></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="./assets/sponsor/wechat.png"><img src="./assets/sponsor/wechat.png" width="240" alt="微信赞助收款码 / WeChat Pay support QR code"></a>
-    </td>
-    <td align="center">
-      <a href="./assets/sponsor/alipay.png"><img src="./assets/sponsor/alipay.png" width="240" alt="支付宝赞助收款码 / Alipay support QR code"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="./assets/sponsor/support.png"><img src="./assets/sponsor/support.png" width="320" alt="赞助入口 / Support QR code"></a>
+</p>
 
 感谢你的支持 ♡<br>
 <sub>Thank you for your support.</sub>
-
-</details>
 
 ---
 
