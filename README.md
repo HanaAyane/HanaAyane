@@ -38,6 +38,7 @@
 
 | 项目<br><sub>Project</sub> | 简介<br><sub>Overview</sub> |
 | :--- | :--- |
+| [**Whisper工作台**](https://github.com/HanaAyane/whisper-workbench)<br><sub>Whisper Workbench</sub> | 本地优先的日语音频工作台：本地转录、按需日中翻译、术语复核与字幕导出，提供 Windows 和 macOS 安装包。<br><sub>A local-first Japanese audio workbench with on-device transcription, optional translation, glossary review, and subtitle export for Windows and macOS.</sub> |
 | [**妄想天使桌宠**](https://github.com/HanaAyane/ZZZ-Idol-Desktop-Pet)<br><sub>ZZZ Idol Desktop Pet</sub> | 支持 macOS / Windows 的桌面小伙伴，带有番茄钟，让陪伴与专注一起留在桌面。<br><sub>A desktop companion for macOS and Windows, with a Pomodoro timer to keep you company while you focus.</sub> |
 | [**dsh-reasoning-effort**](https://github.com/HanaAyane/dsh-reasoning-effort) | 为 DeepSeek Harness 提供模型与推理强度滑块，配有奔跑的“大肥鱼”。<br><sub>A model and reasoning-effort slider for DeepSeek Harness, featuring the animated “Da Fei Yu” runner.</sub> |
 | [**小蕾米 · Codex 桌宠**](https://github.com/HanaAyane/remielle-codex-pet)<br><sub>Remielle · Codex Pet</sub> | 一只抱着画板的小天使，给 Codex 带来可爱的桌面陪伴。<br><sub>A little angel with a drawing board, bringing a friendly companion to your Codex desktop.</sub> |
