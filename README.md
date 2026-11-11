@@ -14,8 +14,8 @@
 **把想法写成工具，把可爱带到桌面。**<br>
 <sub>Turning ideas into tools, and bringing a little cuteness to the desktop.</sub>
 
-计算机专业学生 · AI 与大模型工具 · 开源创作<br>
-<sub>CS Student · AI & LLM Tools · Open Source</sub>
+  AI 与大模型工具 · 开源创作<br>
+<sub>AI & LLM Tools · Open Source</sub>
 
 <a href="https://github.com/HanaAyane?tab=repositories">我的项目</a> · <a href="#support">支持我的创作</a><br>
 <sub><a href="https://github.com/HanaAyane?tab=repositories">My projects</a> · <a href="#support">Support my work</a></sub>
