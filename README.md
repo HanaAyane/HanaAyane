@@ -38,6 +38,7 @@
 
 | 项目<br><sub>Project</sub> | 简介<br><sub>Overview</sub> |
 | :--- | :--- |
+| [**英语词义分类 RAG 知识库**](https://github.com/HanaAyane/english-vocab-rag)<br><sub>English Vocabulary RAG</sub> | 在本机查单词和短语、用中文反查英文词，对照近义词的释义与例句。可选接入 DeepSeek 生成带出处的回答。<br><sub>A local English vocabulary tool with word and phrase lookup, Chinese-to-English search, synonym comparison, and optional answers with source citations via DeepSeek.</sub> |
 | [**Whisper工作台**](https://github.com/HanaAyane/whisper-workbench)<br><sub>Whisper Workbench</sub> | 本地优先的日语音频工作台：本地转录、按需日中翻译、术语复核与字幕导出，提供 Windows安装。<br><sub>A local-first Japanese audio workbench with on-device transcription, optional translation, glossary review, and subtitle export for Windows and macOS.</sub> |
 | [**妄想天使桌宠**](https://github.com/HanaAyane/ZZZ-Idol-Desktop-Pet)<br><sub>ZZZ Idol Desktop Pet</sub> | 支持 macOS / Windows 的桌面小伙伴，带有番茄钟，让陪伴与专注一起留在桌面。<br><sub>A desktop companion for macOS and Windows, with a Pomodoro timer to keep you company while you focus.</sub> |
 | [**dsh-reasoning-effort**](https://github.com/HanaAyane/dsh-reasoning-effort) | 为 DeepSeek Harness 提供模型与推理强度滑块，配有奔跑的“大肥鱼”。<br><sub>A model and reasoning-effort slider for DeepSeek Harness, featuring the animated “Da Fei Yu” runner.</sub> |
