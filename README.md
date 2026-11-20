@@ -43,6 +43,7 @@
 | [**妄想天使桌宠**](https://github.com/HanaAyane/ZZZ-Idol-Desktop-Pet)<br><sub>ZZZ Idol Desktop Pet</sub> | 支持 macOS / Windows 的桌面小伙伴，带有番茄钟，让陪伴与专注一起留在桌面。<br><sub>A desktop companion for macOS and Windows, with a Pomodoro timer to keep you company while you focus.</sub> |
 | [**dsh-reasoning-effort**](https://github.com/HanaAyane/dsh-reasoning-effort) | 为 DeepSeek Harness 提供模型与推理强度滑块，配有奔跑的“大肥鱼”。<br><sub>A model and reasoning-effort slider for DeepSeek Harness, featuring the animated “Da Fei Yu” runner.</sub> |
 | [**小蕾米 · Codex 桌宠**](https://github.com/HanaAyane/remielle-codex-pet)<br><sub>Remielle · Codex Pet</sub> | 一只抱着画板的小天使，给 Codex 带来可爱的桌面陪伴。<br><sub>A little angel with a drawing board, bringing a friendly companion to your Codex desktop.</sub> |
+| [**健身动作指导**](https://github.com/HanaAyane/FitGuide)<br><sub>FitGuide</sub> | iPhone 离线健身动作库，提供中英双语动作说明、逐组训练记录、休息计时和训练历史。<br><sub>An offline iPhone exercise library with bilingual instructions, set-by-set logging, rest timers, and workout history.</sub> |
 
 欢迎体验，也欢迎在对应项目的 Issues 分享建议和反馈。<br>
 <sub>Give them a try, and share your ideas or feedback in each project's Issues.</sub>
